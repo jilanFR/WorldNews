@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidGraduationProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">f359c6d4485b4db4b494a438f7cc2e7d</string>
+
+</resources>
